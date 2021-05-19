@@ -1,0 +1,425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"ba",
+				"background-size\tproperty"
+			],
+			[
+				"bak",
+				"background\tproperty"
+			],
+			[
+				"he",
+				"head\tTag"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"fo",
+				"fondo_colores"
+			],
+			[
+				"bac",
+				"background-position\tproperty"
+			],
+			[
+				"U",
+				"url()\tbackground-image"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"ti",
+				"text-align\tproperty"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"al",
+				"align-content\tproperty"
+			],
+			[
+				"caja",
+				"caja4"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"gr",
+				"grove"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"conta",
+				"contact-form__h2"
+			],
+			[
+				"padi",
+				"pading"
+			],
+			[
+				"padin",
+				"padding-left\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"font",
+				"font-variant\tproperty"
+			],
+			[
+				"re",
+				"referencia"
+			],
+			[
+				"t",
+				"title\tAttr"
+			],
+			[
+				"r",
+				"rt\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"vi",
+				"video\tTag"
+			],
+			[
+				"v",
+				"video\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"contro",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/oswal/Desktop/HTML 5/pagina web curriculum/curriculum-a-/curriculum.html",
+		"/C/Users/oswal/Desktop/HTML 5/pagina web curriculum/curriculum-a-/index.html",
+		"/C/Users/oswal/Desktop/HTML 5/Instagram.html",
+		"/C/Users/oswal/Documents/GitHub/Nosesisaid.github.io/bots.html",
+		"/C/Users/oswal/Desktop/HTML 5/pagina web curriculum/Mis proyectos.html",
+		"/C/CSS/fixed.html",
+		"/C/CSS/Posiciones/fixed.css",
+		"/C/CSS/Posiciones/fixed.html",
+		"/C/CSS/sombras.css",
+		"/C/Users/oswal/Desktop/HTML 5/pagina web curriculum/curriculum.html",
+		"/C/Users/oswal/Desktop/HTML 5/imagenes.html",
+		"/C/CSS/Posiciones/Z index.css",
+		"/C/CSS/Posiciones/padre hijo Z index.css",
+		"/C/CSS/Posiciones/relative.css",
+		"/C/CSS/Tipos de letras.css",
+		"/C/CSS/Margin.css",
+		"/C/CSS/Jerarquia.css",
+		"/C/CSS/Unidades de Medida.css",
+		"/C/CSS/aNormalize.css",
+		"/C/CSS/normalize.css",
+		"/C/CSS/outline.css",
+		"/C/CSS/outline.html",
+		"/C/Users/oswal/Desktop/HTML 5/listas.html",
+		"/C/CSS/Posiciones/relative.html",
+		"/C/Users/oswal/Desktop/HTML 5/Mis proyectos.html",
+		"/C/Users/oswal/Desktop/HTML 5/sobre_mi.html",
+		"/C/Users/oswal/Desktop/HTML 5/curriculum.css",
+		"/C/Users/oswal/Desktop/HTML 5/curriculum.html",
+		"/C/Users/oswal/Desktop/HTML 5/Mis proyectos.css",
+		"/C/CSS/estilo.css",
+		"/C/CSS/Z index.css",
+		"/C/CSS/Propiedades de las cajas.css",
+		"/C/Users/oswal/Desktop/HTML 5/index.html",
+		"/C/Users/oswal/Desktop/HTML 5/perros_a.css",
+		"/C/Users/oswal/Desktop/HTML 5/Autos(pagina de prueba).html",
+		"/C/CSS/Z index.html",
+		"/C/Users/oswal/Desktop/HTML 5/perros_a.CSS",
+		"/C/CSS/index.html",
+		"/C/Users/oswal/Desktop/HTML 5/icono de la pagina.html",
+		"/C/CSS/Posiciones/Autos(pagina de prueba).html",
+		"/C/CSS/Posiciones/Position absolute.css",
+		"/C/CSS/Posiciones/posotion absolute.html",
+		"/C/CSS/Posiciones/Z index.html",
+		"/C/CSS/Posiciones/Padre hijo Z index.html",
+		"/C/Users/oswal/Desktop/HTML 5/pagina2.html",
+		"/C/Users/oswal/Desktop/HTML 5/div.html",
+		"/C/Users/oswal/Desktop/HTML 5/mas informacion raspados.html",
+		"/C/CSS/Margin.html",
+		"/C/CSS/Propiedades de las cajas.html",
+		"/C/CSS/Normalize.css",
+		"/C/CSS/Unidades de medida.html",
+		"/C/Users/oswal/Desktop/HTML 5/Center.html",
+		"/C/Users/oswal/Desktop/HTML 5/Inicio.html",
+		"/C/Users/oswal/Desktop/HTML 5/nosotros.html",
+		"/C/Users/oswal/Desktop/HTML 5/repaso.html",
+		"/C/Users/oswal/Desktop/HTML 5/formularios.html",
+		"/C/Users/oswal/Desktop/HTML 5/meta datos.html"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 168.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
