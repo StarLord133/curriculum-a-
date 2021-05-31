@@ -149,9 +149,7 @@ background-color: black;
 	left: 40px;
 
 	background: #00CCFF;
-	box-shadow: 0 0 5px #00CCFF, 0 0 10px #00CCFF, 0 0 15px #00CCFF, 0 0 20px #00CCFF, 0 0 30px #00CCFF, 0 0 40px #00CCFF;
-	height: 50px;
-	width: 100px;
+
 
 	display: flex;
 	justify-content: center;
